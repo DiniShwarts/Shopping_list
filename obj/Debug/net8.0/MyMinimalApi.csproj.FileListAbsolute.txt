@@ -130,3 +130,4 @@ E:\mb\C#Project\MyMinimalApi\obj\Debug\net8.0\refint\MyMinimalApi.dll
 E:\mb\C#Project\MyMinimalApi\obj\Debug\net8.0\MyMinimalApi.pdb
 E:\mb\C#Project\MyMinimalApi\obj\Debug\net8.0\MyMinimalApi.genruntimeconfig.cache
 E:\mb\C#Project\MyMinimalApi\obj\Debug\net8.0\ref\MyMinimalApi.dll
+C:\mb\C#Project\MyMinimalApi\obj\Debug\net8.0\MyMinimalApi.sourcelink.json
