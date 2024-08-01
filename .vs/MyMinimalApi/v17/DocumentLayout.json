@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\mb\\C#Project\\MyMinimalApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAD63D9-98E8-4404-9E33-395F593ABB0E}|MyMinimalApi.csproj|c:\\mb\\c#project\\myminimalapi\\src\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAD63D9-98E8-4404-9E33-395F593ABB0E}|MyMinimalApi.csproj|solutionrelative:src\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAD63D9-98E8-4404-9E33-395F593ABB0E}|MyMinimalApi.csproj|c:\\mb\\c#project\\myminimalapi\\src\\services\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAD63D9-98E8-4404-9E33-395F593ABB0E}|MyMinimalApi.csproj|solutionrelative:src\\services\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAD63D9-98E8-4404-9E33-395F593ABB0E}|MyMinimalApi.csproj|c:\\mb\\c#project\\myminimalapi\\src\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAD63D9-98E8-4404-9E33-395F593ABB0E}|MyMinimalApi.csproj|solutionrelative:src\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAD63D9-98E8-4404-9E33-395F593ABB0E}|MyMinimalApi.csproj|c:\\mb\\c#project\\myminimalapi\\src\\repositories\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAD63D9-98E8-4404-9E33-395F593ABB0E}|MyMinimalApi.csproj|solutionrelative:src\\repositories\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAD63D9-98E8-4404-9E33-395F593ABB0E}|MyMinimalApi.csproj|c:\\mb\\c#project\\myminimalapi\\src\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAD63D9-98E8-4404-9E33-395F593ABB0E}|MyMinimalApi.csproj|solutionrelative:src\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAD63D9-98E8-4404-9E33-395F593ABB0E}|MyMinimalApi.csproj|c:\\mb\\c#project\\myminimalapi\\src\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAD63D9-98E8-4404-9E33-395F593ABB0E}|MyMinimalApi.csproj|solutionrelative:src\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAD63D9-98E8-4404-9E33-395F593ABB0E}|MyMinimalApi.csproj|c:\\mb\\c#project\\myminimalapi\\src\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAD63D9-98E8-4404-9E33-395F593ABB0E}|MyMinimalApi.csproj|solutionrelative:src\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAD63D9-98E8-4404-9E33-395F593ABB0E}|MyMinimalApi.csproj|c:\\mb\\c#project\\myminimalapi\\src\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAD63D9-98E8-4404-9E33-395F593ABB0E}|MyMinimalApi.csproj|solutionrelative:src\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\mb\\C#Project\\MyMinimalApi\\src\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\ItemService.cs",
+              "ToolTip": "C:\\mb\\C#Project\\MyMinimalApi\\src\\Services\\ItemService.cs",
+              "RelativeToolTip": "src\\Services\\ItemService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:45:22.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "C:\\mb\\C#Project\\MyMinimalApi\\src\\Services\\IItemService.cs",
+              "RelativeDocumentMoniker": "src\\Services\\IItemService.cs",
+              "ToolTip": "C:\\mb\\C#Project\\MyMinimalApi\\src\\Services\\IItemService.cs",
+              "RelativeToolTip": "src\\Services\\IItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:45:20.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\mb\\C#Project\\MyMinimalApi\\src\\Repositories\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "src\\Repositories\\ItemRepository.cs",
+              "ToolTip": "C:\\mb\\C#Project\\MyMinimalApi\\src\\Repositories\\ItemRepository.cs",
+              "RelativeToolTip": "src\\Repositories\\ItemRepository.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:45:07.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "C:\\mb\\C#Project\\MyMinimalApi\\src\\Repositories\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "src\\Repositories\\IItemRepository.cs",
+              "ToolTip": "C:\\mb\\C#Project\\MyMinimalApi\\src\\Repositories\\IItemRepository.cs",
+              "RelativeToolTip": "src\\Repositories\\IItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:45:02.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\mb\\C#Project\\MyMinimalApi\\src\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "src\\Models\\Item.cs",
+              "ToolTip": "C:\\mb\\C#Project\\MyMinimalApi\\src\\Models\\Item.cs",
+              "RelativeToolTip": "src\\Models\\Item.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:44:50.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "C:\\mb\\C#Project\\MyMinimalApi\\src\\Models\\Comments.cs",
+              "RelativeDocumentMoniker": "src\\Models\\Comments.cs",
+              "ToolTip": "C:\\mb\\C#Project\\MyMinimalApi\\src\\Models\\Comments.cs",
+              "RelativeToolTip": "src\\Models\\Comments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:44:47.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\mb\\C#Project\\MyMinimalApi\\src\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "src\\Models\\Category.cs",
+              "ToolTip": "C:\\mb\\C#Project\\MyMinimalApi\\src\\Models\\Category.cs",
+              "RelativeToolTip": "src\\Models\\Category.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:44:43.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\mb\\C#Project\\MyMinimalApi\\src\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\mb\\C#Project\\MyMinimalApi\\src\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "src\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:44:19.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1642933068:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
