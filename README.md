@@ -25,15 +25,16 @@ An upgrade I've made to the application includes the ability for the user to adj
 When the user clicks "Complete Order," the order is finalized, and the list of products is sent to the server.
 ![image](https://github.com/user-attachments/assets/6e92bec0-999e-4f35-aad8-bc8d1e541f5b)
 
-When the user clicks 'Complete Order' and there are no items in the order, they will receive a notification
-![image](https://github.com/user-attachments/assets/9f8b3325-6b76-4b51-9813-aa4d1fbb97de)
+When the user hasn't selected any products and clicks on the "Complete Order" button, a pop-up window should appear indicating that no products have been selected for the order.
+![image](https://github.com/user-attachments/assets/a959a487-6d06-4dcf-84d1-4a8fef886808)
 
 Additionally, there is a product search field currently under development.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9f8b3325-6b76-4b51-9813-aa4d1fbb97de)
+
+Update: On the server-side, I have created an additional table to store general notes for users. For example: "Check the expiration dates on all dairy products." or "Check the expiration dates on all dairy products." This part has been developed only on the server side at this stage. The client side will be developed later.
 
 I've enhanced the application by managing all data within the store. Although refreshing the page would typically clear the data, I've implemented a feature that saves the data to Local Storage. This way, even if the user refreshes the page, the selected products remain as long as the "Complete Order" button hasn't been clicked.
 
-Additionally, there is a product search field currently under development.
 
 Let me know if there's anything you'd like to adjust or add!
 
