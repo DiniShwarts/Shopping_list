@@ -1,5 +1,5 @@
 # Shopping_list
-### Technologies: C# .Net8 ,React.js, Sql Server
+### Technologies: C# .Net8 ,React.ts, Sql Server
 ### Additional libraries: MUI
 ** More:  redux ,Axios etc,React DOM,Testing Libraries:...**
 ### To install the project you need:
